@@ -14,9 +14,7 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 * Author name : {PUT YOUR NAME HERE}
 * Codeship : {PUT YOUR CODESHIP BAGDE HERE}
 
-Example of Codeship badge. Please remove the example before you send us the link. 
-[ ![Codeship Status for tschool/javaschoolexam](https://app.codeship.com/projects/a9af8940-d130-0134-89a6-5e8aaaa2a5a2/status?branch=master)](https://app.codeship.com/projects/201451)
-
+[![CircleCI](https://circleci.com/gh/di-ops/tasks/tree/DV_branch.svg?style=svg)](https://circleci.com/gh/di-ops/tasks/tree/DV_branch)
 
 ### How to start?  ###
 * Install [GIT](https://git-scm.com/) and [Maven](https://maven.apache.org)
