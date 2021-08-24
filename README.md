@@ -11,10 +11,10 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 
 ### Result ###
 
-* Author name : {PUT YOUR NAME HERE}
-* Codeship : {PUT YOUR CODESHIP BAGDE HERE}
+* Author name : Dmitry Vekshin
+* CircleCI : [![CircleCI](https://circleci.com/gh/di-ops/tasks/tree/DV_branch.svg?style=svg)](https://circleci.com/gh/di-ops/tasks/tree/DV_branch)
 
-[![CircleCI](https://circleci.com/gh/di-ops/tasks/tree/DV_branch.svg?style=svg)](https://circleci.com/gh/di-ops/tasks/tree/DV_branch)
+
 
 ### How to start?  ###
 * Install [GIT](https://git-scm.com/) and [Maven](https://maven.apache.org)
